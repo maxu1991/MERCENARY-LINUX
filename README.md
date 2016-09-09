@@ -2,8 +2,8 @@
 
 Download: http://www.hunttools.org
 
-MD5 c1e74d342e9dc290e26450aba806ed18  Mercenary-Linux-v0816.iso
-SHA1 8ebf9bdb02e382e83de00c8cee2d8424e4303d12  Mercenary-Linux-v0816.iso
+<strong>MD5 c1e74d342e9dc290e26450aba806ed18</strong>  Mercenary-Linux-v0816.iso
+<strong>SHA1 8ebf9bdb02e382e83de00c8cee2d8424e4303d12</strong>  Mercenary-Linux-v0816.iso
 
 MERCENARY Linux Distro is Built specifically for Hunt Team Operators
 

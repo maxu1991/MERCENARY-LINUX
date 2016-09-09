@@ -1,12 +1,9 @@
 # MERCENARY-LINUX
 
-Download: http://cybersyndicates.com/downloads/
+Download: http://www.hunttools.org
 
-SHA1: 2c2d5035269366e583e93ffdb707e2dca55b8a36  Mercenary_Lite.tar.bzip2
-
-MD5: 0e35faca489feacae54ce8a8be7488ac  Mercenary_Lite.tar.bzip2
-
-MD5: bcdddcb016c0207aeb5d44978c1397bf Mercenary.tar.gz
+MD5 c1e74d342e9dc290e26450aba806ed18  Mercenary-Linux-v0816.iso
+SHA1 8ebf9bdb02e382e83de00c8cee2d8424e4303d12  Mercenary-Linux-v0816.iso
 
 MERCENARY Linux Distro is Built specifically for Hunt Team Operators
 

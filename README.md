@@ -1,6 +1,8 @@
 # MERCENARY-LINUX
 
 Download: http://www.hunttools.org
+Support: slacker007@cybersyndicates.com 
+         reaperb0t@cybersyndicates.com
 
 <strong>MD5 c1e74d342e9dc290e26450aba806ed18</strong>  Mercenary-Linux-v0816.iso
 
@@ -13,7 +15,7 @@ MERCENARY Linux Distro is Built specifically for Hunt Team Operators
 <strong>OVERVIEW:</strong>
 
 #
-The MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators. This is the first iteration of this distro, with several tools, including Mercenary Hunt Framework being added with the next release (07/2016). This Distro contains many of the most well known and open-source respected malware analysis tools all conveniently installed on one system. Some of the tools included are: mercenary hunt framework (MHF), SIFT, wmic-exe, radare2, viper, pescanner, jsdetox, volatility, maltrieve, rekall, mastiff, v8, crits, bro, netsniff-ng, wireshark, chopshop & Much More. Many of these run within prebuilt dockerized containers. This distro is a premium toolkit for any network, system, or malware analysis expert.
+The MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators. This is the first iteration of this distro, with several tools, including Mercenary Hunt Framework being added with the next release (04/2017). This Distro contains many of the most well known and open-source respected malware analysis tools all conveniently installed on one system. Some of the tools included are: mercenary hunt framework (MHF), SIFT, wmic-exe, radare2, viper, pescanner, jsdetox, volatility, maltrieve, rekall, mastiff, v8, crits, bro, netsniff-ng, wireshark, chopshop & Much More. Many of these run within prebuilt dockerized containers. This distro is a premium toolkit for any network, system, or malware analysis expert.
 
 Browse to http://hunttools.org and download the latest iso.  To simplify the installation process we added a command "merc_install" that completes the entire setup process for you.  So download the .iso, install bare metal or create a virtual machine <strong>(follow instructions from hunttools.org's wiki)</strong>, boot up and run sudo merc_install and follow the instructions on the screen. We hope you enjoy! 
 

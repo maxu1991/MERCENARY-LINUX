@@ -1,6 +1,7 @@
 # MERCENARY-LINUX
 
-Download: http://www.hunttools.org
+Download: http://download1077.mediafire.com/yx2scoexed0g/hvv16w4cdfq4mj8/Mercenary-Linux-v0816.iso
+Documentation: https://hunttools.gitbooks.io/mercenary-linux/content/
 
 Support: slacker007@cybersyndicates.com 
          reaperb0t@cybersyndicates.com

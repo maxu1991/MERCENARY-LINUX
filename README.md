@@ -3,8 +3,8 @@
 Download: http://download1077.mediafire.com/yx2scoexed0g/hvv16w4cdfq4mj8/Mercenary-Linux-v0816.iso
 Documentation: https://hunttools.gitbooks.io/mercenary-linux/content/
 
-Support: slacker007@cybersyndicates.com 
-         reaperb0t@cybersyndicates.com
+Support: @real_slacker007
+         @reaperb0t
 
 <strong>MD5 c1e74d342e9dc290e26450aba806ed18</strong>  Mercenary-Linux-v0816.iso
 
